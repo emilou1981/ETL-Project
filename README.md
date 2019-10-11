@@ -55,9 +55,9 @@ DESCRIBE HOW DATA WAS LOADED!!!!!!!!
 
 The final tables or collections that will be used in the production database. 
 
-<img src="Markdown Images/Screen Shot 2019-09-03 at 5.55.13 PM.png" alt="Obesity vs. High School Graduation Rate" style="zoom:40%;" />
+<img src="Resources/Database Image.png" alt="Database Image" style="zoom:75%;" />
 
-![Database Image](Resources/Database Image.png)
+
 
 
 
