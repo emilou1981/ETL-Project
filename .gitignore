@@ -106,5 +106,8 @@ venv.bak/
 
 *.xlsx
 
+# files
+todd_junk.txt
+
 #- Large data files
 input_data/pollution_us_2000_2016.csv
