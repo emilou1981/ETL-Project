@@ -53,7 +53,10 @@ DESCRIBE HOW DATA WAS LOADED!!!!!!!!
 
 #### Final Tables / Collections
 
-The final tables or collections that will be used in the production database. INSERT IMAGE OF DATABASE!!!!!!!!!!!!!!!!!!!!!
+The final tables or collections that will be used in the production database. 
+
+![Database Image](Resources/Database Image.png)
+
 
 
 
