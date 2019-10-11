@@ -1,6 +1,6 @@
 # **Final Report: Dataset for Comparing the Prevalence of Adult Asthma and Ozone (O3) Air Pollution Particulates**
 
-The ETL team recieve a request for the data needed to compare the prevalence of adult asthma to O3 air pollution for years 2013-2016. The following provides the data sources and the steps taken to 
+The ETL team recieve a request for the data needed to compare the prevalence of adult asthma to O3 air pollution for years 2013-2016. The following provides the data sources and the steps taken to get to complete the database to the required specifications.
 
 ## **Data Extraction**
 
