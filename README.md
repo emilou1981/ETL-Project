@@ -6,8 +6,11 @@ The ETL team recieve a request for the data needed to compare the prevalence of 
 
 The data set being used for adult asthma prevalence is from the CDC. We will be scraping the data for each year using Flask.
 https://www.cdc.gov/asthma/brfss/2016/tableL1.htm
+<br>
 https://www.cdc.gov/asthma/brfss/2015/tableL1.html
+<br>
 https://www.cdc.gov/asthma/brfss/2014/tableL1.htm
+<br>
 https://www.cdc.gov/asthma/brfss/2013/tableL1.htm
 
 The data set being used for pollution particulates is from a data.world project titled U.S. Air Pollution Data. The data is a CSV file.
