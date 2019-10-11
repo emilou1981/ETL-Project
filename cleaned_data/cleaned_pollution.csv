@@ -1,4 +1,4 @@
-,Year,State,O3_Units_Measurement,O3_min,O3_max,O3_Mean
+,year,state,O3_units_measurement,O3_min,O3_max,O3_mean
 0,2013,AL,Parts per million,0.0,0.026333,0.012098838709677418
 1,2013,AR,Parts per million,0.003292,0.049,0.025577408219178237
 2,2013,AZ,Parts per million,0.002,0.05975,0.027972658859470517

@@ -1,4 +1,4 @@
-Asthma Sample Size,Asthma Prevalence (%),Standard Error,95% CI* (%),Year
+asthma_sample_size,asthma_prev_prcnt,std_err,95_prcnt_CI_prcnt,year
 4564.0,14.8,0.83,(13.2 – 16.4),2013
 4375.0,12.4,0.7,(11.1 – 13.8),2014
 3642.0,13.4,1.02,(11.4 – 15.4),2015
