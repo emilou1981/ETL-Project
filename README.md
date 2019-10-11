@@ -44,18 +44,18 @@ The Adult Asthma prevalence rates are by state for each year. We scraped the dat
 
 The U.S. Air Pollution Data file contained multiple daily readings for cities throughout the U.S. from 2000 - 2016. The final pollution data will provide the min, max and mean by state to ensure that any variances between counties within each state are visible. The following are the steps taken to transform and clean the dataset:
 
-•	Dropping unnecessary columns
-•	Rename columns that were left into more easily understandable titles
-•	Dropping any rows that lacked information
-•	Removing rows that had data not used in CDC data (Mexico)
-•	Modified date to other data set
-•	Pulled in a second data frame for state abbreviations
-•	Matched the State column with state abbreviation columns to match other data set
-•	Narrowed data down to only necessary years
-•	Drop more unnecessary columns
-•	Group by year and state to get min, max, and mean
-•	Merge all three group_bys into one data frame
-•	Rename columns to final names
+·     Dropping unnecessary columns
+·     Rename columns that were left into more easily understandable titles
+·     Dropping any rows that lacked information
+·     Removing rows that had data not used in CDC data (Mexico)
+·     Modified date to other data set
+·     Pulled in a second data frame for state abbreviations
+·     Matched the State column with state abbreviation columns to match other data set
+·     Narrowed data down to only necessary years
+·     Drop more unnecessary columns
+·     Group by year and state to get min, max, and mean
+·     Merge all three group_bys into one data frame
+·     Rename columns to final names
 
 ## Final Production Datebase
 
