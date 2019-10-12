@@ -72,13 +72,13 @@ The U.S. Air Pollution Data file contained multiple daily readings for cities th
 
 The final production database is relational and is stored in SQL. A Relational database was chosen because the data was imported and transformed using Python and the dataset used is structured.
 
-<img src="Resources/etl_flowChart.png" alt="ELT Flow Chart" style="zoom:120;" />
+<img src="Resources/etl_flowChart.png" alt="ELT Flow Chart" style="zoom:90;" />
 
 #### Final Tables / Collections
 
 The final tables or collections that will be used in the production database are in the diagram below. 
 
-<img src="Resources/Database Image.png" alt="Database Image" style="zoom:120%;" />
+<img src="Resources/Database Image.png" alt="Database Image" style="zoom:150%;" />
 
 
 
